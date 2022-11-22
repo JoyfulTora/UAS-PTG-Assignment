@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 4282316113
+    locked: 0
+  - name: Back
+    uniqueID: 1960031119
+    locked: 0
+  - name: Platform
+    uniqueID: 1451624777
+    locked: 0
+  - name: Entity
+    uniqueID: 1969760423
+    locked: 0
+  - name: Fore
+    uniqueID: 1169151897
+    locked: 0
