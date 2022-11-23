@@ -13,14 +13,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Foreground
+  - Player
+  - Platform
+  - Background
+  - Enemy
+  - PlayerInvincible
+  - Projectiles
+  - Sky
   - 
   - 
   - 
