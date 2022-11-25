@@ -2548,6 +2548,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 156674748448030052, guid: b353f727a81d8b94da322501224f7c31, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: ee4c8b9b0dae20f419f121a66ce0805d, type: 2}
     - target: {fileID: 8616376321465318034, guid: b353f727a81d8b94da322501224f7c31, type: 3}
       propertyPath: m_Name
       value: Dino
